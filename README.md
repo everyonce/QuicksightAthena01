@@ -1,4 +1,4 @@
-# Quicksight and Athena Workshop - AWS & Slalom
+# Quicksight and Athena Workshop
 Amazon QuickSight and Amazon Athena workshop. Workshop will focus on ingesting data into Athena, combining it with other data sources, and visualizing it in QuickSight.
 
 Hands on workshop is broken up into 5 different sections to get you familiar with the Quicksight and Athena products:</br>
